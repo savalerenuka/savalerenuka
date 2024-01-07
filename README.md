@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 🔭 I'm currently working on MERN Stack Projects and DSA in Java. <br>
 🌱 I’m currently learning React.<br>
 👯 I’m looking to collaborate with other developers on above mentioned tech-stack.<br>
-💬 Ask me about Data Structures and Algorithms MERN stack development.<br>
+💬 Ask me about Data Structures and Algorithms, MERN stack development.<br>
 ⚡ Fun fact: I love car driving and cooking.<br>
 
  📫 Connect with me: [https://www.linkedin.com/in/renuka-savale-455119224/]
